@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://www.example.com"
-title = "Persian"
+title = "Jamison M Sheppard"
 theme = "persian-hugo"
 languageName = "En"
 languageCode = "en-us"
@@ -49,27 +49,16 @@ URL = "about"
 weight = 2
 
 [[menu.main]]
-name = "Category"
-URL = "categories/nature/"
-weight = 3
-
-[[menu.main]]
 name = "Contact"
 URL = "contact"
-weight = 4
-
-[[menu.main]]
-name = "Privacy Policy"
-URL = "privacy-policy"
-weight = 5
-
+weight = 3
 
 #################### default parameters ################################
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "Jamison Milford Sheppard is a writer residing in Northern Michigan"
+author = "Jamison M Sheppard"
 # search  
 search = true
 # contact form action
@@ -85,26 +74,16 @@ preloader = "" # use jpg, png, svg or gif format.
 
 ############################# social site ########################
 [[params.social]]
-title = "facebook"
-icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-title = "twitter"
-icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
 title = "instagram"
 icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.instagram.com/jamison.sheppard/"
 
 [[params.social]]
 title = "github"
 icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://github.com/sheppardjm"
 
 [[params.social]]
 title = "linkedin"
 icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.linkedin.com/in/jamisonsheppard/"
