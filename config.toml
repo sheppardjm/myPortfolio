@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://www.example.com"
+baseURL = "/"
 title = "Jamison M Sheppard"
 theme = "persian-hugo"
 languageName = "En"
