@@ -1,0 +1,22 @@
+---
+title: "Be A Kite"
+date: 2018-03-24T12:14:34+06:00
+image: "images/post/post-4.jpg"
+author: "Jamison M Sheppard" # use capitalize
+description: "The dishes are dirty, the bed isn’t made, there’s something afoul in the kitchen wastebasket, and three beers just isn’t enough."
+categories: ["Fiction, Flash Fiction"]
+tags: ["Flash Fiction"]
+draft: false
+---
+
+The dishes are dirty, the bed isn’t made, there’s something afoul in the kitchen wastebasket, and three beers just isn’t enough. An empty feeling in the pit of a sloshing stomach, the substance of which is indeterminable and categorically imprecise. He stands with his body facing the unmade bed but his mind is towards the door, the stairs, the garage, the fridge. He’s made up his mind but hasn’t chosen. Tomorrow are big things, better things. 7am. The word sharp omitted but assumed. He hates cliches but he’s playing one now: a wave of sadness runs through his body like a rip tide pulling a barely afloat body further from shore and out, under the sea.
+
+It’s 3am. The world outside is a floating architecture of half-lit awnings and drooping Christmas lights strung carelessly on homemade porches that sag with the same affected pathos of their homes’ foundations. It’s late winter. The time of year when snow disappears everywhere but the big gray frozen pyramids of dollar store parking lots. He doesn’t feel less empty after he lost count. Just slightly confused by everything. Like his world removed one screw and everything hangs at a slight limp, taking on a familiar shape but a different pose. He’s still hungry for something.
+
+6am. Local news. Perky blonde anchor laughs off tacky segway from obviously closeted male anchor. Their chemistry is one of childhood friends, the kind who talk behind each others’ backs but in truth are inseparable because of the depths of truths shared, hidden in plain sight yet never exposed. A bottle tips towards vinyl from its resting place beside his hip. He catches it too late. Stale beer has the unique gift of smelling like nothing else.
+
+11am. He feels only the edges of things. Like the substance just passes through him. Like there’s something more out there if one only has the tenacity to not allow everything else in one’s life to weigh him down. To let it go. Is all one has to do. To abstain from the pressure. To be a kite and rise in the wind instead of stall. Spread wings. Use imagination instead of intuition. Devour instead of despise. She the thread and he the spindle. Their love the kite. But the tighter she wrapped the more it suffered. He suffered. The further she got the more it soared. He unwinding uncontrollably, resolutely.
+
+The afternoon. He wants to write but he deleted her number. Maybe she’ll reach out. He knows it won’t happen. Do these thoughts infect her too? Or is she oblivious? The hapless helpless dame who just wanted to give her heart and he ripped it away because he couldn’t take the long pauses, the short answers, the laughs he knew weren’t real. But maybe she was hiding something too. There was that song he listened to too much: *I am not some broken thing*. It so comforting because he knew it to be false. The girl with the owl eyes had split him in two. He half the man he once was. Man being an overstatement. Too old to be a boy but knowing the half that lived was exactly so. What was her story? She couldn’t commit either. What broke her? Why did she hold back the one thing he needed more than anything else in his life?
+
+Dusk. The sun invisible but still casting shadows. Long dark shadows that reach towards his feet as he sips at what now ails him. Her memory transforming to anger as does all pain one cannot compute. Blame a force of nature, a wind that blows unceasingly till the blood cools and accepts fact for fate. The American way. Stay the course. His eyes bloodshot with deprivation from much more than sleep. Ready to give up. Ready to drown. Cliches about not going on. Patronizing her faith because he couldn’t believe in a God that allowed women like the owl-eyed girl to get away with the murder of the only thing he ever loved. It becomes clear. He didn’t love the person he loved the idea. Her manic optimism and perpetual drive. The way she would gather a handful of soft hair and put it to her little nose. The smell of her unmade bed the next morning. He seeing her through a shrinking lens that he knew would ultimately blink shut too soon and never reopen. Wounds that never close.
