@@ -1,5 +1,5 @@
 ---
-title: "Jamison Milford Sheppard is a writer based in Northern Michign"
+title: "Jamison Milford Sheppard is a writer based in Northern Michigan"
 image: "images/author.jpg"
 description: "Jamison M Sheppard is a writer based in Northern Michigan"
 draft: false
