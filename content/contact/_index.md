@@ -1,7 +1,7 @@
 ---
-title: "Lets Contact Us"
+title: "Contact"
 # meta description
-description: "this is meta description"
+description: "Contact Jamison"
 # save as draft
 draft: false
 ---
