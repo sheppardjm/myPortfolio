@@ -65,6 +65,8 @@ search = true
 contact_form_action = "#" # contact form works with https://formspree.io
 # copyright
 copyright = "&#169; Jamison M Sheppard"
+# google analytics
+google_analytics_id = "UA-36027276-2"
 # Preloader
 [params.preloader]
 enable = true
