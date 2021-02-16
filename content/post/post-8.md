@@ -6,7 +6,7 @@ author: "Jamison M Sheppard" # use capitalize
 description: "He wasn’t ready to give it up just yet. There hadn’t been, in his 30 years of existence, a definitive reason to quit altogether."
 categories: ["Fiction, Flash Fiction"]
 tags: ["Flash Fiction"]
-draft: false
+draft: true
 ---
 
 He wasn’t ready to give it up just yet. There hadn’t been, in his 30 years of existence, a definitive reason to quit altogether. If there had been, say, an accident, or medical expense, or loss of job he would have surely stopped for good, but there never were such occurrences to guide his trajectory anywhere but onward. That’s not to say his life hadn’t been without consequences for his behavior. There had been verbal disagreements, missed plans, every varietal of hangover, and the rapid heart palpitations that eventually made him quit with the straight bourbon on Sundays. Yet these always occurred far enough apart to excuse the behavior as the once-in-a-blue-moon type despite him never really taking a break, *ever*, from alcohol, since the age of 16.
